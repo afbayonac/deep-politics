@@ -1,5 +1,7 @@
 import React from 'react';
 
+import Login from './Login';
+
 export default function App () {
-  return (<h1>deep politics</h1>);
+  return (<div><Login /></div>);
 }
